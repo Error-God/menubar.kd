@@ -1,0 +1,26 @@
+@media only screen and (max-width: 600px) {
+  #hello {
+    background-color: lightblue;
+    display: none;
+  }
+  .container {
+   display: visible;
+  }
+  
+}
+
+@media only screen and (min-width: 600px) {
+  .container {
+   display: none;
+   background-color: red;
+  }
+  #hello {
+    background-color: red;
+  }
+  #headingTop{
+display: none;
+  }
+  #divBack{
+display: none;
+  }
+}
