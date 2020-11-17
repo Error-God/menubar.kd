@@ -1,12 +1,13 @@
 @media only screen and (min-width: 600px) {
   .container {
-   display: none;
-   background-color: red;
-  }
-#hello {
+    /* display: none; */
     background-color: red;
   }
- 
+
+  #hello {
+    background-color: red;
+  }
+
 }
 
 @media only screen and (max-width: 600px) {
@@ -14,5 +15,5 @@
     background-color: lightblue;
     display: none;
   }
- 
+
 }

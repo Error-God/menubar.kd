@@ -185,7 +185,7 @@ a:focus {
 					<li><a href=" https://wa.me/917273967372?text=I%20have%20a%20query" class="bt-icon icon-whatsApp  glyphicon">WhatsApp</a></li>
 					<li><a href="tel:+917273967372" class="bt-icon glyphicon icon-phoneCall ">Phone Call</a></li>
 					<li><a href="mailto:kumargovinda08@gmail.com?body=I%20have%20a%20query" class="bt-icon icon-mailTo glyphicon">Mail Us</a></li>
-				</ul>
+				</ul>    
 			</nav>
 		</div><!-- /container -->
 	<div id="headingTop" style="height: 30px;position: fixed; top: 18px; left: 40%; background-color: #1abc9c; z-index: 1030">
